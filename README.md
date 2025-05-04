@@ -12,3 +12,11 @@ Repositori ini merupakan bagian dari tugas akhir yang memodelkan perilaku Resona
    Plotting I-V curve, perhitungan PVCR, dan daya RF output untuk variasi lebar penghalang.
 3. `4. TA_Plot_RTDs.ipynb`  
    Plotting I-V curve, perhitungan PVCR, dan daya RF output untuk variasi suhu.
+
+## ▶️ Cara Menjalankan
+Buka notebook secara berurutan di Jupyter Notebook, Google Colaboratory, atau VS Code dengan Jupyter extension.
+
+## 📈 Hasil Utama
+Kurva karakteristik I-V pada RTDs
+Perhitungan Peak-to-Valley Current Ratio (PVCR)
+Estimasi daya output untuk aplikasi frekuensi tinggi
