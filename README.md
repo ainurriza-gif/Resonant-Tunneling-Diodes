@@ -18,5 +18,7 @@ Buka notebook secara berurutan di Jupyter Notebook, Google Colaboratory, atau VS
 
 ## 📈 Hasil Utama
 Kurva karakteristik I-V pada RTDs
+
 Perhitungan Peak-to-Valley Current Ratio (PVCR)
+
 Estimasi daya output untuk aplikasi frekuensi tinggi
