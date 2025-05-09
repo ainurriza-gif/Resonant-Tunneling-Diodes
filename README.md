@@ -1,4 +1,5 @@
-# Analisis Pengaruh Lebar Penghalang dan Suhu Terhadap Nilai PVCR dan Daya RF Maksimum Pada Model Resonant Tunneling Diodes (RTDs) Berpenghalang Ganda Menggunakan Metode Matriks Transfer
+# EFFECT OF BARRIER WIDTH AND TEMPERATURE ON PVCR AND MAXIMUM RF POWER IN RESONANT TUNNELING DIODES (RTDs) MODELS USING THE TRANSFER MATRIX METHOD
+
 # Muhammad 'Ainurriza Al Kahfi (Brawijaya University)
 
 Repositori ini merupakan bagian dari tugas akhir yang memodelkan perilaku Resonant Tunneling Diodes (RTDs)
